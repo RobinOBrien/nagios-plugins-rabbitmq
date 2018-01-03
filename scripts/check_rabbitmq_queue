@@ -3,7 +3,6 @@
 # check_rabbitmq_queue
 #
 # Use the management APIs to check a queue
-#
 
 use strict;
 use warnings;
